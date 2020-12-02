@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Teko:wght@500&display=swap');
+
+/* main body */
+* {
+    font-size: 10px;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #CDBCCD;
+    line-height: 1.5;
+    font-size: 2rem;   
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+/* header */
+
+.container {
+    width: 85%;
+    overflow: hidden;
+    
+}
+
+
+.navbar .nav-item a {
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:#ffffff;
+}
+
+.navbar-light .navbar-brand {
+    color: #ffffff;
+    text-transform: uppercase;
+    float: left;
+    font-size: 3rem;
+    
+    
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #ffffff;
+    
+}
+.navigation-container {
+    overflow: hidden;
+}
+header {
+    background-color: #250967;
+    font-family: Teko;
+    border-bottom: #ffffff;
+    padding-top: 30px;
+    min-height: 70px; 
+}
+
+header a {
+    font-size: 2.7rem;
+    text-decoration: none;
+    color: #ffffff;
+    letter-spacing: .3rem;
+}
+
+header li {
+    
+    display: inline;
+    padding: 0 2rem 0 2rem;
+}
+
+header #logo {
+    float: left;
+}
+
+header nav {
+    float: right;
+    margin-bottom: 1.5rem;
+    
+}
+
+header a:hover{
+    color: #CDBCCD;
+    font-weight: bold;
+}
+
+.navbar.navbar-2 .navbar-toggler-icon {
+background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff');
+}
+
+/* hero-image */
+
+#hero-image {
+    background: url('../images/hero.jpg');
+    background-size: cover;
+    min-height: 40rem;
+    text-align: center;
+    height:60rem;
+    width: 100%;
+    opacity: .9;
+    border-bottom:  #ffffff 5px solid;
+
+}
+
+#hero-image h1 {
+    color: #ffffff;
+    font-family: Teko;
+    margin-top: 430px;
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+#hero-image h2 {
+    font-size: 45px;
+    color: #CDBCCD;
+    font-weight: bold;
+    
+}
+
+/* boxes */
+
+#boxes {
+    margin-top: 30px;
+    border-bottom: #ffffff 5px solid;
+}
+
+#boxes .box1 {
+    text-align: center;
+    width: 25%;
+    float: left;
+    padding: 10px;
+}
+
+#boxes .box2 {
+    text-align: center;
+    width: 25%;
+    float: left;
+    padding: 10px;
+    margin-left: 120px;
+}
+
+#boxes .box3 {
+    text-align: center;
+    width: 25%;
+    float: right;
+    padding: 10px;
+    margin-left: 45px;
+}
+
+#boxes .box1 h3 {
+    font-family: Teko;
+    font-size: 3.5rem;
+    text-decoration: underline;
+    color: #ffffff;
+}
+#boxes .box2 h3 {
+    font-family: Teko;
+    font-size: 35px;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+#boxes .box3 h3 {
+    font-family: Teko;
+    font-size: 35px;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* footer */
+
+footer{
+    min-height: 65px;
+    background-color: #250967;
+    overflow: hidden;
+
+    
+}
+
+.social {
+    text-align: center;
+    
+}
+
+.social li{
+    display: inline;
+}
+
+.social i{
+    font-size: 140%;
+    margin: 1%;
+    padding: 1.5%;
+    color: #ffffff;
+}
+
+/* classes title */
+
+.block{
+    border-bottom: #ffffff 5px solid;
+}
+
+
+#main {
+    
+    border-bottom: #ffffff 5px solid;
+    
+
+}
+
+#main h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+    font-family: Teko;
+    letter-spacing: 3px;
+    text-decoration: underline;
+    color: #250967;
+}
+
+
+/* image */
+
+.image1 {
+    background: url('../images/yoga.jpg');
+    height:300px;
+    width: 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+    border: 5px solid #ffffff;
+    padding: 10px;
+    
+
+    
+}
+
+.image2 {
+    background: url('../images/workout.jpg');
+    height:300px;
+    width: 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+    border: 5px solid #ffffff;
+    padding: 10px;
+    
+    
+}
+
+/* class headings */
+
+#headings h3 {
+    font-family: Teko;
+    text-decoration: underline;
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+
