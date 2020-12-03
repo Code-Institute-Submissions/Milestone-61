@@ -10,11 +10,13 @@ body {
     font-size: 2rem;   
 }
 .container {
-    background-color: #cdbccd;
+    background-color: #CDBCCD;
 }
 h3 {
-    font-size: 3rem;
+    font-size: 4rem;
     color: white;
+    text-decoration: underline;
+    font-family: Teko;
 }
 h4 {
     font-size: 3.5rem;
@@ -232,12 +234,14 @@ header a:hover{
     font-family: Teko;
     font-size: 5rem;
 }
+
 #hero-image h2 {
     font-size: 4rem;
     color: #CDBCCD;
     font-weight: bold;
     
 }
+
 footer{
     margin-top: 2rem;
     min-height: 65px;
@@ -253,52 +257,30 @@ footer{
 }
 .social i{
     font-size: 3rem;
-    padding: 3rem;
+    padding: 2.9rem;
     color: white;
 }
 /* classes title */
-.block{
-    border-bottom: #ffffff 5px solid;
-}
-#main {
-    
-    border-bottom: #ffffff 5px solid;
-    
-}
+
 #main h1 {
     text-align: center;
-    margin-top: 20px;
-    font-size: 50px;
+    margin-top: 2rem;
+    font-size: 5rem;
     font-family: Teko;
-    letter-spacing: 3px;
+    letter-spacing: .3rem;
     text-decoration: underline;
     color: #250967;
 }
-/* image */
-.image1 {
-    background: url('../images/yoga.jpg');
-    height:300px;
-    width: 40%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    border-radius: 40px;
-    border: 5px solid #ffffff;
-    padding: 10px;
+
     
+/* class boxes */
+.row-classes-text {
+    text-align: center;
+    font-family: Teko;
+    padding: 1rem;
     
 }
-.image2 {
-    background: url('../images/workout.jpg');
-    height:300px;
-    width: 40%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    border-radius: 40px;
-    border: 5px solid #ffffff;
-    padding: 10px;
-    
-    
-}
+
 .boxes {
     margin-top: 2rem;
 }
@@ -315,14 +297,98 @@ footer{
     font-size: 2rem;
 }
 /* class headings */
+
 #headings h3 {
     font-family: Teko;
     text-decoration: underline;
     font-size: 3.5rem;
 }
 
+#headings p {
+    font-size: 1.5rem;
+}
 
 
+
+
+/* Contact  Page */
+
+.heading-capitalise {
+    text-align: center;
+    font-family: Teko;
+    padding-top: 2rem;
+    font-size: 4rem;
+
+}
+
+
+
+#contact-form {
+     text-align: center;
+     background-image: url("../images/contact-image.jpg");
+     width: auto;
+     height: auto;
+     background-repeat: repeat;
+     background-size: contain;
+     padding: 2rem;
+    
+}
+
+.p-text {
+    text-align: center;
+    font-size: 1.8rem;
+    color: #463730;
+}
+
+.submit {
+    background-color: #463730;
+    width: 7.5rem;
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.form-input {
+    width: 60%;
+    border-width: .2rem;
+    padding: 2rem;
+    background-color: rgba(240, 240, 240, .7);
+    font-size: 1.4rem;
+    text-align: left;
+}
+
+.column img {
+    height: 20rem;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 1.5rem;
+  height: 4rem;
+}
+
+
+.class-images::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.p-about {
+    font-size: 1.8rem;
+}
+
+.heading-about {
+    text-align: center;
+}
+
+.container-about{
+    padding: 3rem;
+}
+
+.about-image {
+    border-radius: 50%;
+}
 
 
 

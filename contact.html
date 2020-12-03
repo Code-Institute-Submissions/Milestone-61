@@ -3,35 +3,123 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" type="text/css" />
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+          type="text/css"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css"
+          integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
     <title>Rock Fitness | Contact </title>
 </head>
 <body>
-    <header>
-        <div class="container">
-         <div id ="logo">
-          <h1>Rock Fitness <i class="fab fa-rockrms"></i></h1>
-         </div> 
-           <nav>
-           <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="classes.html">Classes</a></li>
-        <li class="current"><a href="contact.html">Contact</a></li>
-           </ul>
-           </nav>
-        </div>  
-           
-    </header>
-      
-    <footer>
-      <ul class="social">
-       <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"> </i></li>
-       <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"> </i></li>
-       <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube-square"> </i></li>
-       <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"> </i></li>
-      </ul>
+<div class="container">
+    <!--Navbar-->
+    <nav class="navbar navbar-dark  indigo darken-2">
+        <!-- Navbar brand -->
+        <a class="navbar-brand" href="#">Rock Fitness</a>
+        <!-- Collapse button -->
+        <button class="navbar-toggler third-button" type="button" data-toggle="collapse"
+                data-target="#navbarSupportedContent22"
+                aria-controls="navbarSupportedContent22" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="animated-icon3"><span></span><span></span><span></span></div>
+        </button>
+        <!-- Collapsible content -->
+        <div class="collapse navbar-collapse" id="navbarSupportedContent22">
+            <!-- Links -->
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="classes.html">Classes</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+            </ul>
+            <!-- Links -->
+        </div>
+        <!-- Collapsible content -->
+    </nav>
+    <!--/.Navbar-->
+
+<section id="contact">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+			<h3 class="heading-capitalise">Get in touch</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<p class="p-text">We are happy to answer any questions...</p>
+			</div>
+		</div>
+	</div>
+
+<div id="contact-us-form">
+	<div class="container">
+		<form id="contact-form">
+			<div class="row">
+				<div class="col">
+				<input type="text" name="name" class="form-input" id="fullname" placeholder="Full Name" required>
+           </div>
+				</div>
+				<br>
+				<div class="row">
+					<div class="col">
+						<input type="email" name="name" class="form-input" id="email" placeholder="Email" required>
+            </div>
+					</div>
+					<br>
+					<div class="row">
+						<div class="col">
+							<input type="text" name="name" class="form-input" id="phone" placeholder="Phone" required>
+            </div>
+						</div>
+					<br>
+						<div class="row">
+							<div class="col">
+								<textarea name="message" class="form-input" id="message" rows="8" placeholder="Your message here..." required></textarea>
+							</div>
+						</div>
+						<br>
+						<input class="submit" type="submit" value="Submit">
+        </form>
+	</div>
+</div>
+</section>
+
+
+<footer>
+        <ul class="social">
+            <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"> </i></a></li>
+            <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"> </i></a></li>
+            <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube-square"> </i></a></li>
+            <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"> </i></a></li>
+        </ul>
     </footer>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+<script>
+    $(document).ready(function () {
+        $('.first-button').on('click', function () {
+            $('.animated-icon1').toggleClass('open');
+        });
+        $('.second-button').on('click', function () {
+            $('.animated-icon2').toggleClass('open');
+        });
+        $('.third-button').on('click', function () {
+            $('.animated-icon3').toggleClass('open');
+        });
+    });
+</script>
 </body>
 </html>
