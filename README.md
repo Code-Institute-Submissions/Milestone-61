@@ -43,7 +43,7 @@ It was built using the knowledge gained from the HTML, CSS and User Centric Desi
 ## Structure
 
 ## Design
-### The two main colours used are violet #250967 and a light pink #CDBCCD as I felt these colours would suit a gym page.
+### The two main colours used are a violet #250967 and a light pink #CDBCCD as I felt these colours would suit a gym website,and also matched the images and fonts I chose. The violet and and light pink shade should compliment each other without being over powering to the eyes. Both colours were checked for contrast using the Webaim contrast checker.
 
 
 
