@@ -96,10 +96,11 @@ Contact Page<br>
 # Deployment
 
 ## Project Creation
-* This website was created in the Gitpod development environment. After installing the Gitpod extension for Chrome web browser and creating a new repository in GitHub using the Code Institute template,the green Gitpod button was used to initialise the repository in Gitpod. The following commands were used throughout the project.
- 
+* This website was created in the Gitpod development environment. After installing the Gitpod extension for Chrome web browser and creating a new repository in GitHub using the Code Institute template,the green Gitpod button was used to initialise the repository in Gitpod. The following commands were used throughout the project. The git add and git commit were used to store the work in the local Gitpod environment, git push would then be used to push the commits to the GitHub repository. From here the website could then deployed to Git Pages.
 
-
+## Using Github Pages
+* Navigate to the GitHub [Repository:](https://github.com/sophieboyle1/Milestone-1)
+* Click the 'Settings' Tab.
 
 
 
