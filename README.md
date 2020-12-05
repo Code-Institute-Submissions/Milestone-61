@@ -49,7 +49,12 @@ It was built using the knowledge gained from the HTML, CSS and User Centric Desi
 * Both colours were checked for contrast using the Webaim contrast checker.
 
 ## Typography
-* I used a mix of the font Teko, with Open Sans, to create balance and structure throughout the website, which i feel pairs very well.
+* I used a mix of the font Teko, with Open Sans to create balance and structure throughout the website, which i feel pairs very well.
+
+## Wireframes
+Home Page<br>
+![Home Page Wireframe](assets/images/Wireframes/Wireframe-Home.png)<br>
+
 
 
 
