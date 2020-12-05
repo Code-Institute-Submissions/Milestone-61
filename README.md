@@ -108,6 +108,9 @@ On all devices it was decided to have the first image act as a hero image for th
 * All HTML code was passed through the W3C Markup Validator, and showed a common error within the nav bar. <br>
 ![Error](assets/images/testing/w3-validator.png)<br>
 * I reffered back to the original bootstrap nav bar code and decided to input a different button class. One that was the correct child element to give all pages a better hamburger menu.
+* I ran the code again through W3C Markup Validator and it showed NO errors.
+![Error](assets/images/testing/validator2.png)<br
+
 
 ## Link Testing
 * Navigation Menu links were all individually manually tested from each page of the website to ensure the user is directed to the correct page.
@@ -170,7 +173,7 @@ On all devices it was decided to have the first image act as a hero image for th
 * Images were sourced by the website [Unsplashed](https://unsplash.com/) 
 
 ## Acknowledgements
-* I'd like to thank my mentor Spencer Baribell for his patience and guidance throughout my project.
+* I'd like to thank my mentor Spencer Barriball for his patience and guidance throughout my project.
 * My tutor Roman at the Kerry ETB for all the support he gives daily.
 * All at Code Institute and Tutor support.
 
