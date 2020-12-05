@@ -53,14 +53,14 @@ It was built using the knowledge gained from the HTML, CSS and User Centric Desi
 
 ## Wireframes
 Home Page<br>
-![Home Page Wireframe](assets/images/wireframes/wireframe-Home.png)<br>
+![Home Page Wireframe](assets/images/wireframes/wireframe-home.png)<br>
 Classes Page<br>
 ![Classes Page Wireframe](assets/images/wireframes/wireframe-classes.png)<br>
 Contact Page<br>
 ![Contact Page Wireframe](assets/images/wireframes/wireframe-contact.png)<br>
 
 Wireframes for Mobile, Tablet & Desktop
-* [Home Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/wireframes/wireframe-Home.png)
+* [Home Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/wireframes/wireframe-home.png)
 * [Classes Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/wireframes/wireframe-classes.png)
 * [Contact Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/wireframes/wireframe-contact.png)
 
