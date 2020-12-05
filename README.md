@@ -1,7 +1,7 @@
 # Rock Fitness Gym
 
 ![am i responsive image](assets/images/responsive-image.png)
-[Link to live project](https://github.com/sophieboyle1/Milestone-1.git/index.html)
+[Link to live project](https://sophieboyle1.github.io/Milestone-1/)
 
 # Milestone Project 1
 
@@ -130,7 +130,7 @@ On all devices it was decided to have the first image act as a hero image for th
 ## Issues and Resolutions
 * Nav bar issue on all pages. It was resolved by changing part of the code.
 * Spelling mistakes were found when proof reading, these were corrected.
-* Photo alignment issue on Classes page, this was fixed by adding bootstrap and usign code from W3 website.
+* Photo alignment issue on Classes page, this was fixed by adding bootstrap and using code from W3 website.
 * Images on classes page were different sizes, these were fixed by adding height and width in css style.
 
 
