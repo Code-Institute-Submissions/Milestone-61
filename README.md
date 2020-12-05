@@ -45,7 +45,11 @@ It was built using the knowledge gained from the HTML, CSS and User Centric Desi
 ## Design
 ### Colour Scheme
 * The two main colours used are a violet ![#250967](https://via.placeholder.com/15/250967/000000?text=+) and a light pink ![#CDBCCD](https://via.placeholder.com/15/CDBCCD/000000?text=+) as I felt these colours would suit a gym website,and also matched the images and fonts I chose. The violet and and light pink shade should compliment each other without being over powering to the eyes.
+* I also wanted to use a darker brown ![#463730](https://via.placeholder.com/15/463730/000000?text=+) for the body, to make the purple shades pop.
 * Both colours were checked for contrast using the Webaim contrast checker.
+
+## Typography
+* I used a mix of the font Teko, with Open Sans, to create balance and structure throughout the website, which i feel pairs very well.
 
 
 
