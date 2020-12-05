@@ -53,11 +53,11 @@ It was built using the knowledge gained from the HTML, CSS and User Centric Desi
 
 ## Wireframes
 Home Page<br>
-![Home Page Wireframe](assets/images/Wireframes/wireframe-Home.png)<br>
+![Home Page Wireframe](assets/images/wireframes/wireframe-Home.png)<br>
 Classes Page<br>
-![Classes Page Wireframe](assets/images/Wireframes/wireframe-classes.png)<br>
+![Classes Page Wireframe](assets/images/wireframes/wireframe-classes.png)<br>
 Contact Page<br>
-![Contact Page Wireframe](assets/images/Wireframes/wireframe-contact.png)<br>
+![Contact Page Wireframe](assets/images/wireframes/wireframe-contact.png)<br>
 
 Wireframes for Mobile, Tablet & Desktop
 * [Home Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/wireframes/wireframe-Home.png)
@@ -65,7 +65,7 @@ Wireframes for Mobile, Tablet & Desktop
 * [Contact Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/wireframes/wireframe-contact.png)
 
 ## Differences between final design and original wireframes:
-#### Home page: 
+### Home page: 
 
 Orginially I had planned to list my navigation menu horizontaly, but later decided to add a hamburger style nav bar from bootstrap and I found it was easier to navigate the menu items from mobile devices, was was much more pleasing to the eye. 
 On all devices it was decided to have the first image act as a hero image for the page to grab the users attention, which I later decided to add a carousel feature to add more dimension.
