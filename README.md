@@ -125,12 +125,13 @@ On all devices it was decided to have the first image act as a hero image for th
 * As a user I want a mobile friendly site so that I can browse quickly and easily. - This website was developed as a mobile first web site, ensuring mobile users an excellent user experience. <br>
 * As a user I want to be able to easily navigate throughout the site to find content. - Testing was performed on all Navigation links to ensure users can easily navigate the Website. <br>
 * As a user I want to know what types of workout equipment that the gym has available. - Full text box was tested to ensure it states all equipment and facilities available. <br>
-* As a user I want to contact the gym so I can request more information. - Contact page is provided and is simple and easy to use.
+* As a user I want to contact the gym so I can request more information. - Contact page is provided and is simple and easy to use. 
 
-
-
-
-
+## Issues and Resolutions
+* Nav bar issue on all pages. It was resolved by changing part of the code.
+* Spelling mistakes were found when proof reading, these were corrected.
+* Photo alignment issue on Classes page, this was fixed by adding bootstrap and usign code from W3 website.
+* Images on classes page were different sizes, these were fixed by adding height and width in css style.
 
 
 # Deployment
