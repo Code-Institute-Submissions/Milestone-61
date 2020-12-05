@@ -102,7 +102,12 @@ On all devices it was decided to have the first image act as a hero image for th
 * [Unsplash](https://unsplash.com/) - Found my images here used throughout the website.
 
 # Testing
-* 
+## Code Validators
+* CSS Stylesheet was run through the W3C CSS Validator and showed no errors.
+* All HTML code was passed through the W3C Markup Validator, and showed a common error within the nav bar. <br>
+![Error](assets/images/Testing/W3-Validator.png)<br>
+
+
 
 # Deployment
 
