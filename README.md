@@ -102,17 +102,37 @@ On all devices it was decided to have the first image act as a hero image for th
 * [Unsplash](https://unsplash.com/) - Found my images here used throughout the website.
 
 # Testing
+
 ## Code Validators
 * CSS Stylesheet was run through the W3C CSS Validator and showed no errors.
 * All HTML code was passed through the W3C Markup Validator, and showed a common error within the nav bar. <br>
 ![Error](assets/images/Testing/W3-Validator.png)<br>
+* I reffered back to the original bootstrap nav bar code and decided to input a different button class. One that was the corrct child element to give all pages a better hamburger menu.
+
+## Link Testing
+* Navigation Menu links were all individually manually tested from each page of the website to ensure the user is directed to the correct page.
+* Social Media links in the footer of each page were tested manually to ensure they direct the user to the correct page. As currently the business does not have any active social media sites these links point to the main page for each platform eg. facebook.com etc.
+* Tested carousel controls left and right to ensure they moved the carousel along in the correct direction.
+
+## Form Testing
+* Tested the submit button with no input fields filled in to ensure the form would not submit without the required fields filled in.
+* Tested submitting the form without one of each of the required fields and the form will not submit without all required fields filled in.
+
+## Testing User Stories
+* As a user I want to see clearly where the gym is located and if there is parking available. - Testing was performed to ensure Gym Information was displayed on the Home Page. <br>
+* As a user I want to see the gyms opening times during the week and at weekends. -  Testing was performed to ensure Gym opening times for the weekdays and weekends was displayed clearly on the Home Page. <br>
+* 
+
+
+
+
 
 
 
 # Deployment
 
 ## Project Creation
-* This website was created in the Gitpod development environment. After installing the Gitpod extension for Chrome web browser and creating a new repository in GitHub using the Code Institute template,the green Gitpod button was used to initialise the repository in Gitpod. The following commands were used throughout the project. The git add and git commit were used to store the work in the local Gitpod environment, git push would then be used to push the commits to the GitHub repository. From here the website could then deployed to Git Pages.
+* This website was created in the Gitpod development environment. After installing the Gitpod extension for Chrome web browser and creating a new repository in GitHub using the Code Institute template,the green Gitpod button was used to initialise the repository in Gitpod. The following commands were used throughout the project, git add and git commit were used to store the work in the local Gitpod environment, git push would then be used to push the commits to the GitHub repository. From here the website could then deployed to Git Pages.
 
 ## Using Github Pages
 * Navigate to the GitHub [Repository:](https://github.com/sophieboyle1/Milestone-1)
