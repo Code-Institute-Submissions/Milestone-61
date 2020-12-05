@@ -29,7 +29,7 @@ It was built using the knowledge gained from the HTML, CSS and User Centric Desi
 * Beginners to fitness
 * Young Adults with busy lives
 * Groups of friends 
-* 
+* Students 
 
 ## User Stories
 * As a user I want to see clearly where the gym is located and if there is parking available.
@@ -40,7 +40,11 @@ It was built using the knowledge gained from the HTML, CSS and User Centric Desi
 * As a user I want to know what types of workout equipment that the gym has available.
 * As a user I want to contact the gym so I can request more information.
 
-## Structure 
+## Structure
+
+## Design
+### 
+
 
 
 
