@@ -59,6 +59,24 @@ Classes Page<br>
 Contact Page<br>
 ![Contact Page Wireframe](assets/images/Wireframes/Wireframe-contact.png)<br>
 
+# Features
+
+## Existing Features
+* Responsive on all devices
+* Navigation Menu fixed at top on all devices to provide users with quick and easy access to the other pages of the site.
+* A Contact fom can be completed on the contact.html page and used in order to contact the gym with any queries.
+* Contact Form with dropdown menu for subject line.
+* Carousel gallery on home page to illustrate members working out and participating in group classes.
+
+## Features Left to Implement
+* Customer reviews.
+* Private Training sessions offered with booking system.
+* Ability to rent sections of the gym for larger groups as part of the contact form.
+
+# Technologies Used
+* [Html](https://www.w3schools.com/html/) - Hyper Text Markup Language, used for creating the website.
+* [Css](https://www.w3schools.com/css/) - Cascading Style Sheet, used for styling the website.
+
 
 
 
