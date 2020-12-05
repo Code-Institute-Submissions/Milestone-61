@@ -43,7 +43,7 @@ It was built using the knowledge gained from the HTML, CSS and User Centric Desi
 ## Structure
 
 ## Design
-### 
+### The two main colours used are violet #250967 and a light pink #CDBCCD as I felt these colours would suit a gym page.
 
 
 
