@@ -59,6 +59,9 @@ Classes Page<br>
 Contact Page<br>
 ![Contact Page Wireframe](assets/images/Wireframes/Wireframe-contact.png)<br>
 
+Wireframes for Mobile, Tablet & Desktop
+* [Home Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/Wireframes/Wireframe-Home.png)
+
 # Features
 
 ## Existing Features
