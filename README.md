@@ -61,6 +61,15 @@ Contact Page<br>
 
 Wireframes for Mobile, Tablet & Desktop
 * [Home Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/Wireframes/Wireframe-Home.png)
+* [Classes Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/Wireframes/Wireframe-classes.png)
+* [Contact Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/Wireframes/Wireframe-contact.png)
+
+## Differences between final design and original wireframes:
+#### Home page: 
+
+Orginially I had planned to list my navigation menu horizontaly, but later decided to add a hamburger style nav bar from bootstrap and I found it was easier to navigate the menu items from mobile devices, was was much more pleasing to the eye. 
+On all devices it was decided to have the first image act as a hero image for the page to grab the users attention, which I later decided to add a carousel feature to add more dimension.
+
 
 # Features
 
