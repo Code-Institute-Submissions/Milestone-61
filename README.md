@@ -1,7 +1,7 @@
 # Rock Fitness Gym
 
 ![am i responsive image](assets/images/responsive-image.png)
-[Link to live project](https://github.com/sophieboyle1/Milestone-1.git)
+[Link to live project](https://github.com/sophieboyle1/Milestone-1.git/index.html)
 
 # Milestone Project 1
 
