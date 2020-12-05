@@ -78,6 +78,7 @@ On all devices it was decided to have the first image act as a hero image for th
 * Navigation Menu fixed at top on all devices to provide users with quick and easy access to the other pages of the site.
 * A Contact fom can be completed on the contact.html page and used in order to contact the gym with any queries.
 * Carousel gallery on home page to illustrate members working out and participating in group classes.
+* Embedded YouTube video - A group workout video can be turned on/off by the user. It is not set to automatically run.
 
 ## Features Left to Implement
 * Customer reviews.
@@ -108,8 +109,8 @@ On all devices it was decided to have the first image act as a hero image for th
 * All HTML code was passed through the W3C Markup Validator, and showed a common error within the nav bar. <br>
 ![Error](assets/images/testing/w3-validator.png)<br>
 * I reffered back to the original bootstrap nav bar code and decided to input a different button class. One that was the correct child element to give all pages a better hamburger menu.
-* I ran the code again through W3C Markup Validator and it showed NO errors.
-![Error](assets/images/testing/validator2.png)<br
+* I ran the code again through W3C Markup Validator and it showed NO errors. 
+![Error](assets/images/testing/validator2.png)
 
 
 ## Link Testing
@@ -171,6 +172,7 @@ On all devices it was decided to have the first image act as a hero image for th
 
 ## Media 
 * Images were sourced by the website [Unsplashed](https://unsplash.com/) 
+* The video on the classes page was obtained by youtube.
 
 ## Acknowledgements
 * I'd like to thank my mentor Spencer Barriball for his patience and guidance throughout my project.
