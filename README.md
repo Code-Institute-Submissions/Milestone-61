@@ -54,6 +54,11 @@ It was built using the knowledge gained from the HTML, CSS and User Centric Desi
 ## Wireframes
 Home Page<br>
 ![Home Page Wireframe](assets/images/Wireframes/Wireframe-Home.png)<br>
+Classes Page<br>
+![Classes Page Wireframe](assets/images/Wireframes/Wireframe-classes.png)<br>
+Contact Page<br>
+![Contact Page Wireframe](assets/images/Wireframes/Wireframe-contact.png)<br>
+
 
 
 
