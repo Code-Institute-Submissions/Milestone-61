@@ -53,16 +53,16 @@ It was built using the knowledge gained from the HTML, CSS and User Centric Desi
 
 ## Wireframes
 Home Page<br>
-![Home Page Wireframe](assets/images/Wireframes/Wireframe-Home.png)<br>
+![Home Page Wireframe](assets/images/Wireframes/wireframe-Home.png)<br>
 Classes Page<br>
-![Classes Page Wireframe](assets/images/Wireframes/Wireframe-classes.png)<br>
+![Classes Page Wireframe](assets/images/Wireframes/wireframe-classes.png)<br>
 Contact Page<br>
-![Contact Page Wireframe](assets/images/Wireframes/Wireframe-contact.png)<br>
+![Contact Page Wireframe](assets/images/Wireframes/wireframe-contact.png)<br>
 
 Wireframes for Mobile, Tablet & Desktop
-* [Home Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/Wireframes/Wireframe-Home.png)
-* [Classes Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/Wireframes/Wireframe-classes.png)
-* [Contact Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/Wireframes/Wireframe-contact.png)
+* [Home Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/wireframes/wireframe-Home.png)
+* [Classes Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/wireframes/wireframe-classes.png)
+* [Contact Page](https://github.com/sophieboyle1/Milestone-1/tree/master/assets/images/wireframes/wireframe-contact.png)
 
 ## Differences between final design and original wireframes:
 #### Home page: 
@@ -106,13 +106,13 @@ On all devices it was decided to have the first image act as a hero image for th
 ## Code Validators
 * CSS Stylesheet was run through the W3C CSS Validator and showed no errors.
 * All HTML code was passed through the W3C Markup Validator, and showed a common error within the nav bar. <br>
-![Error](assets/images/Testing/W3-Validator.png)<br>
+![Error](assets/images/testing/w3-validator.png)<br>
 * I reffered back to the original bootstrap nav bar code and decided to input a different button class. One that was the correct child element to give all pages a better hamburger menu.
 
 ## Link Testing
 * Navigation Menu links were all individually manually tested from each page of the website to ensure the user is directed to the correct page.
 * Social Media links in the footer of each page were tested manually to ensure they direct the user to the correct page. As currently the business does not have any active social media sites these links point to the main page for each platform eg. facebook.com etc.
-* Tested carousel controls left and right to ensure they moved the carousel along in the correct direction.
+* Tested carousel controls left and right to ensure it moved smoothly and the captions also changed with the images.
 
 ## Form Testing
 * Tested the submit button with no input fields filled in to ensure the form would not submit without the required fields filled in.
