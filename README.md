@@ -76,6 +76,19 @@ Contact Page<br>
 # Technologies Used
 * [Html](https://www.w3schools.com/html/) - Hyper Text Markup Language, used for creating the website.
 * [Css](https://www.w3schools.com/css/) - Cascading Style Sheet, used for styling the website.
+* [Bootstrap](https://getbootstrap.com/) - Bootstrap grid system, navigation bar and carousel. 
+* [Font Awesome](https://fontawesome.com/) - Font awesome Icons are used for the Social media links contained in the Footer section of the website, Also for the information in the text boxes on homepage.
+* [Google Fonts](https://fonts.google.com/) - Google fonts are used in the project to import the Teko and Open Sans.
+* [Balsamiq](https://balsamiq.com/) – Used for creating the wireframes.
+* [Git](https://git-scm.com/) - Git is used as version control software to commit and push code to the GitHub repository where the source code is stored.
+* [GitHub](https://github.com/) - GithHub is the hosting site used to store the source code for the Website 
+* [Gitpod](https://www.gitpod.io/) - Development environment where the site was built.
+* [Webaim contrast checker](https://webaim.org/resources/contrastchecker/) - Used to check the contrast between the various colours used.
+* [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools) - Used throughout the development of the website to quickly see changes and find problems.
+* [W3C HTML validator](https://validator.w3.org/) - Used to validate code.
+* [W3C CSS validator](https://jigsaw.w3.org/css-validator/) - Used to validate code.
+* [Coolors](https://coolors.co/) - Used for selecting complimentary colour palettes.
+* [Unsplash](https://unsplash.com/) - Found my images here used throughout the website.
 
 
 
