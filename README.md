@@ -106,6 +106,25 @@ Contact Page<br>
 * Click Save
 * Click on the link to go to the live deployed page.
 
+## Run Local 
+* Navigate to the GitHub [Repository:](https://github.com/sophieboyle1/Milestone-1)
+* Click the Code drop down menu.
+* Click the clipboard icon to copy the url provided
+* Open your developement editor of choice and open a terminal window in a directory of your choice.
+* Use "git clone" and paste the copied url after it.
+* A clone of the project will be created locally on your machine.
+
+# Credits
+## Code 
+* [Bootstrap Nav Bar with Links](https://getbootstrap.com/docs/4.5/components/navbar/). Bootstrap navbar used with some modifications and also CSS animations.
+* [Bootstrap Carousel with controls](https://getbootstrap.com/docs/4.5/components/carousel/). Bootstrap carousel used with some modifications.
+* W3 Schools [How To Place Images Side by Side](https://www.w3schools.com/howto/howto_css_images_side_by_side.asp). Code added to both HTML and CSS to align images.
+* Bootstrap Grid System [Grid system](https://getbootstrap.com/docs/4.0/layout/grid/) Used to create a Responsive website using the grid system.
+
+
+
+
+
 
 
 
