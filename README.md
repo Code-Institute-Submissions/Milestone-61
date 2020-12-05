@@ -100,7 +100,11 @@ Contact Page<br>
 
 ## Using Github Pages
 * Navigate to the GitHub [Repository:](https://github.com/sophieboyle1/Milestone-1)
-* Click the 'Settings' Tab.
+* Go to settings
+* Scroll down to Git Hub Pages section
+* Select 'Master Branch' as the source.
+* Click Save
+* Click on the link to go to the live deployed page.
 
 
 
