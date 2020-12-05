@@ -122,7 +122,16 @@ Contact Page<br>
 * Bootstrap Grid System [Grid system](https://getbootstrap.com/docs/4.0/layout/grid/) Used to create a Responsive website using the grid system.
 
 ## Content 
-* Content for discription of classes was found on [Wikipedia](https://www.wikipedia.org/) By typing in the Name of each Class.
+* Content for discription of classes was found on [Wikipedia](https://www.wikipedia.org/) by typing in the Name of each Class.
+* Rest of the content was written by myself.
+
+## Media 
+* Images were sourced by the website [Unsplashed](https://unsplash.com/) 
+
+## Acknowledgements
+* I'd like to thank my mentor Spencer Baribell for his patience and guidance throughout my project.
+* My tutor Roman at the Kerry ETB for all the support he gives daily.
+* All at Code Institute and Tutor support.
 
 
 
