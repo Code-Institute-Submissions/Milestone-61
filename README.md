@@ -107,7 +107,7 @@ On all devices it was decided to have the first image act as a hero image for th
 * CSS Stylesheet was run through the W3C CSS Validator and showed no errors.
 * All HTML code was passed through the W3C Markup Validator, and showed a common error within the nav bar. <br>
 ![Error](assets/images/Testing/W3-Validator.png)<br>
-* I reffered back to the original bootstrap nav bar code and decided to input a different button class. One that was the corrct child element to give all pages a better hamburger menu.
+* I reffered back to the original bootstrap nav bar code and decided to input a different button class. One that was the correct child element to give all pages a better hamburger menu.
 
 ## Link Testing
 * Navigation Menu links were all individually manually tested from each page of the website to ensure the user is directed to the correct page.
@@ -119,9 +119,13 @@ On all devices it was decided to have the first image act as a hero image for th
 * Tested submitting the form without one of each of the required fields and the form will not submit without all required fields filled in.
 
 ## Testing User Stories
-* As a user I want to see clearly where the gym is located and if there is parking available. - Testing was performed to ensure Gym Information was displayed on the Home Page. <br>
-* As a user I want to see the gyms opening times during the week and at weekends. -  Testing was performed to ensure Gym opening times for the weekdays and weekends was displayed clearly on the Home Page. <br>
-* 
+* As a user I want to see clearly where the gym is located and if there is parking available. - Text boxes are clearly stated to ensure Gym Information was displayed on the Home Page. <br>
+* As a user I want to see the gyms opening times during the week and at weekends. -  Text Box is clearly defined to show the Gyms opening times for the weekdays and weekends. <br>
+* As a user I want to see what kinds of classes the gym has available. - Testing was performed to ensure that all the types of classes are listed and fully responsive on all devices.<br>
+* As a user I want a mobile friendly site so that I can browse quickly and easily. - This website was developed as a mobile first web site, ensuring mobile users an excellent user experience. <br>
+* As a user I want to be able to easily navigate throughout the site to find content. - Testing was performed on all Navigation links to ensure users can easily navigate the Website. <br>
+* As a user I want to know what types of workout equipment that the gym has available. - Full text box was tested to ensure it states all equipment and facilities available. <br>
+* As a user I want to contact the gym so I can request more information. - Contact page is provided and is simple and easy to use.
 
 
 
