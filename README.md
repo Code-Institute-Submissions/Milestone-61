@@ -90,6 +90,15 @@ Contact Page<br>
 * [Coolors](https://coolors.co/) - Used for selecting complimentary colour palettes.
 * [Unsplash](https://unsplash.com/) - Found my images here used throughout the website.
 
+# Testing
+* 
+
+# Deployment
+
+## Project Creation
+* This website was created in the Gitpod development environment. After installing the Gitpod extension for Chrome web browser and creating a new repository in GitHub using the Code Institute template,the green Gitpod button was used to initialise the repository in Gitpod. The following commands were used throughout the project.
+ 
+
 
 
 
